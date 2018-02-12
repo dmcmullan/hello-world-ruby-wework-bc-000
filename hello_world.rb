@@ -1,2 +1,5 @@
 puts "Hello World"
-see
+see = "This is a variable"
+
+
+puts see
